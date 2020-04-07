@@ -4,7 +4,6 @@ import numpy as np
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye_tree_eyeglasses.xml')
 
-#img = cv2.imread('grp.jpg')
 
 cap = cv2.VideoCapture(0)
 
