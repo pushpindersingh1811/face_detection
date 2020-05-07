@@ -5,5 +5,5 @@ Facial Recognition
 
 
 Setting up Images Folder for training and recognition:-
--Rename and fill the sub-folder in Known_Images folder with images you want to train the model with.
+-Fill the faces folder with images you want to train the model with.
 -Fill the Unknown_Images folder images to test with, that includes the images of your and others images as well.
